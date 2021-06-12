@@ -12,5 +12,5 @@ public class Course {
     private String name;
     private String capacity;
     private String description;
-    private String subjects[];
+    private Object subjects[];
 }
